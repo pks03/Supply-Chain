@@ -1,7 +1,7 @@
 # Supply-Chain
 # Blockchain Assignment - 1
 
-## Team members - (Group 15)
+## Team members - (Group 4)
 1) Prachi Shah (2021A7PS2589H)
 2) Shramana Ghosh (2021A7PS1834H)
 3) Ambi Gaur (2021A4PS2923H)
