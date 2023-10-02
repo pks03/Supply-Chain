@@ -43,10 +43,35 @@ Our solution for secure supply chain management and blockchain verification ensu
 ```bash
      node test.js
 ```
-##Required installation
+## Required installation
 ```bash
      npm install readline-sync
      npm install qrcode-terminal
      npm install crypto
      npm install js-sha256
 ```
+## Screenshots of the working application
+
+### Register Distributor<br>
+![WhatsApp Image 2023-10-02 at 7 33 46 PM](https://github.com/pks03/Supply-Chain/assets/115401101/8a529d79-cd25-4dfb-8514-ba9f83a2d146)
+
+### Register Client<br>
+![WhatsApp Image 2023-10-02 at 7 35 45 PM](https://github.com/pks03/Supply-Chain/assets/115401101/2e64869e-f804-4fba-b069-486c997ea3af)
+
+### Client Placing an order
+![WhatsApp Image 2023-10-02 at 7 38 04 PM](https://github.com/pks03/Supply-Chain/assets/115401101/04d52a39-adff-4c19-af11-e8baec01f265)
+
+### Distributor dispatching the order
+![WhatsApp Image 2023-10-02 at 7 46 54 PM](https://github.com/pks03/Supply-Chain/assets/115401101/71a5e66c-bf4e-48b9-8167-8ba0eabc7041)
+
+### Distributor trying to view order status
+![WhatsApp Image 2023-10-02 at 7 49 52 PM](https://github.com/pks03/Supply-Chain/assets/115401101/1f7a17ef-f26b-497b-a152-822d2b519d84)
+
+### Client has not received the order so there are no verified transactions yet hence block can't be mined
+![WhatsApp Image 2023-10-02 at 7 50 58 PM](https://github.com/pks03/Supply-Chain/assets/115401101/3808b405-f0aa-4f3d-ab37-ca596ef09aad)
+
+### Client confirms delivery of order
+![WhatsApp Image 2023-10-02 at 7 54 55 PM](https://github.com/pks03/Supply-Chain/assets/115401101/a540dfec-6bd7-42cb-b736-dbfbb89977e2)
+
+### Block is mined with valid transaction
+![WhatsApp Image 2023-10-02 at 7 56 46 PM](https://github.com/pks03/Supply-Chain/assets/115401101/38787bc6-529f-4809-9f7a-280d81a03793)
